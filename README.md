@@ -1,2 +1,2 @@
-# DEPI-Final-Project-
+# DEPI-Final-Project
 Files for final project 
