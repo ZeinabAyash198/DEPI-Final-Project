@@ -1,5 +1,6 @@
 # DEPI-Final-Project
 Files for final project 
+
 1️⃣ Project Title
 
 Predictive Maintenance for Industrial Machines
