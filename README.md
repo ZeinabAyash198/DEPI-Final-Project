@@ -6,6 +6,7 @@ Files for final project
 Predictive Maintenance for Industrial Machines
 
 Project Members:
+
 1-kerlous Marzouk
 
 2-Zeinab Ayash
@@ -29,11 +30,6 @@ The project includes data preprocessing, exploratory data analysis (EDA),
 feature selection, and machine learning models to classify whether
 a machine will fail or not.
 
-يهدف هذا المشروع إلى التنبؤ بأعطال الماكينات باستخدام تقنيات
-التعلم الآلي اعتمادًا على بيانات الحساسات الخاصة بالماكينات الصناعية.
-
-يساعد التنبؤ بالأعطال في تقليل توقف الإنتاج وتحسين كفاءة العمليات
-وتقليل تكاليف الصيانة.
 
 3️⃣ Dataset Description
 The dataset used in this project is the AI4I 2020 Predictive Maintenance Dataset.
