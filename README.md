@@ -7,9 +7,13 @@ Predictive Maintenance for Industrial Machines
 
 Project Members:
 1-kerlous Marzouk
+
 2-Zeinab Ayash
+
 3-Neama Ali
+
 4-verina Alfred
+
 5-Moamen Tarek
 
 
