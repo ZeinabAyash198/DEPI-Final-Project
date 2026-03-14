@@ -5,13 +5,21 @@ Files for final project
 
 Predictive Maintenance for Industrial Machines
 
+Project Members:
+1-kerlous Marzouk
+2-Zeinab Ayash
+3-Neama Ali
+4-verina Alfred
+5-Moamen Tarek
+
+
 2️⃣ Project Overview
 
 This project aims to predict machine failures using machine learning
 techniques based on sensor data collected from industrial machines.
 
 Predictive maintenance helps companies reduce downtime,
-improve operational efficiency, and lower maintenance costs.
+improve operati onal efficiency, and lower maintenance costs.
 
 The project includes data preprocessing, exploratory data analysis (EDA),
 feature selection, and machine learning models to classify whether
