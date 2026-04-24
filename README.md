@@ -1,9 +1,9 @@
 # DEPI-Final-Project
 Files for final project 
 
-1️⃣ Project Title
+Project Title
 
-Predictive Maintenance for Industrial Machines
+Walmart Sales Analysis & Insights
 
 Project Members:
 
@@ -18,63 +18,61 @@ Project Members:
 5-Moamen Tarek
 
 
-2️⃣ Project Overview
+Description
+This project focuses on analyzing Walmart sales data to uncover patterns, identify key drivers of sales, and generate actionable business insights.
+The analysis explores how different factors such as holidays, economic conditions, and store performance impact weekly sales.
 
-This project aims to predict machine failures using machine learning
-techniques based on sensor data collected from industrial machines.
+ Objective
+Understand sales behavior across stores
+Identify top-performing stores
+Analyze impact of holidays on sales
+Study relationship between sales and economic factors
+Build interactive dashboard for 
+decision-making
 
-Predictive maintenance helps companies reduce downtime,
-improve operati onal efficiency, and lower maintenance costs.
+Steps 
+1-Data Cleaning
+Convert Date column
+Remove duplicates
+2-Exploratory Data Analysis (EDA)
+📈 Sales over time
+🏪 Sales by store
+🎉 Holiday vs Non-Holiday sales
+🌡 Temperature Impact
+⛽ Fuel Price Impact
+💰 CPI Impact
+👥 Unemployment Impact
+📊 Dashboard (Power BI)
 
-The project includes data preprocessing, exploratory data analysis (EDA),
-feature selection, and machine learning models to classify whether
-a machine will fail or not.
+KPIs:
+Total Sales
+Average Weekly Sales
+Max Sales
+Min Sales
 
+📊 Visuals:
+📈 Sales  Trend
+🏪 Sales by Store
+🎯 Holiday Impact
+🌡 Temperature vs Sales
+⛽ Fuel Price vs Sales
 
-3️⃣ Dataset Description
-The dataset used in this project is the AI4I 2020 Predictive Maintenance Dataset.
+💡 Insights 
+Sales increase during holidays
+Certain stores consistently outperform others
+Economic indicators influence sales patterns
+Sales show seasonal fluctuations
+ README 
+🚀 Walmart Sales Analysis Project
+This project analyzes Walmart sales data to extract insights and support business decisions.
 
-It contains sensor readings from industrial machines under different
-operating conditions and records whether the machine experienced a failure.
-
-Total records: 10,000
-Target variable: Machine Failure (0 = No Failure, 1 = Failure)
-
-4️⃣ Features 
-Main Features:
-
-• Air Temperature
-• Process Temperature
-• Rotational Speed
-• Torque
-• Tool Wear
-• Product Quality (L, M, H)
-
-Target Variable:
-• Machine Failure
-
-الهدف إنك تتوقع Machine Failure 
-
-5️⃣ Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
-
-6️⃣ Data Cleaning
-Data preprocessing steps:
-
-• Removing unnecessary columns (ID columns)
-• Encoding categorical variables (Product Quality)
-• Checking for missing values
-• Feature scaling
-• Splitting data into training and testing sets
-
-7️⃣ Exploratory Data Analysis (EDA)
-
+🛠 Tools:
+Power BI
+Excel
+📊 Key Findings:
+Holidays significantly boost sales
+Store performance varies widely
+External factors impact revenue
 EDA was performed to understand the relationships between
 machine operating conditions and failure events.
 
@@ -86,32 +84,3 @@ Key analyses included:
 • Torque vs Failure
 • Rotational speed analysis
 
-8️⃣ Machine Learning Models
-
-The following machine learning models were used:
-
-• Decision Tree Classifier
-• Random Forest Classifier
-
-9️⃣ Model Evaluation
-
-Models were evaluated using:
-
-• Accuracy
-• Precision
-• Recall
-• Confusion Matrix
-
-🔟 Key Insights
-
-• Machine failures are rare compared to normal operations.
-• Certain features like torque and process temperature
-  are strong indicators of machine failure.
-• Random Forest performed better than Decision Tree.
-
-1️⃣ Conclusion
-Machine learning can effectively predict machine failures
-based on sensor data.
-
-Predictive maintenance allows companies to detect problems
-early and reduce unexpected downtime.
