@@ -71,4 +71,3 @@ This project analyzes Walmart sales data to uncover patterns, identify key drive
 3. Neama Ali  
 4. Verina Alfred  
 5. Moamen Tarek
-6. 
