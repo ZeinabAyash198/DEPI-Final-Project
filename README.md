@@ -1,86 +1,74 @@
-# DEPI-Final-Project
-Files for final project 
+# 🛒 Walmart Sales Analysis & Insights
 
-Project Title
+## 📌 Project Overview
+This project analyzes Walmart sales data to uncover patterns, identify key drivers of sales, and support business decision-making.
 
-Walmart Sales Analysis & Insights
+---
 
-Project Members:
+## 🎯 Objectives
+- Understand sales behavior across stores  
+- Identify top-performing stores  
+- Analyze the impact of holidays on sales  
+- Study the relationship between sales and economic factors  
+- Build an interactive dashboard  
 
-1-kerlous Marzouk
+---
 
-2-Zeinab Ayash
+## 🛠️ Tools Used
+- Excel  
+- Power BI  
 
-3-Neama Ali
+---
 
-4-verina Alfred
+## 🔄 Project Steps
 
-5-Moamen Tarek
+### 1️⃣ Data Cleaning
+- Convert date column  
+- Remove duplicates  
 
+### 2️⃣ Exploratory Data Analysis (EDA)
+- Sales over time  
+- Sales by store  
+- Holiday vs Non-Holiday sales  
+- Temperature impact  
+- Fuel price impact  
+- CPI impact  
+- Unemployment impact  
 
-Description
-This project focuses on analyzing Walmart sales data to uncover patterns, identify key drivers of sales, and generate actionable business insights.
-The analysis explores how different factors such as holidays, economic conditions, and store performance impact weekly sales.
+### 3️⃣ Dashboard
+- Built using Power BI  
 
- Objective
-Understand sales behavior across stores
-Identify top-performing stores
-Analyze impact of holidays on sales
-Study relationship between sales and economic factors
-Build interactive dashboard for 
-decision-making
+---
 
-Steps 
-1-Data Cleaning
-Convert Date column
-Remove duplicates
-2-Exploratory Data Analysis (EDA)
-📈 Sales over time
-🏪 Sales by store
-🎉 Holiday vs Non-Holiday sales
-🌡 Temperature Impact
-⛽ Fuel Price Impact
-💰 CPI Impact
-👥 Unemployment Impact
-📊 Dashboard (Power BI)
+## 📊 KPIs
+- Total Sales  
+- Average Weekly Sales  
+- Max Sales  
+- Min Sales  
 
-KPIs:
-Total Sales
-Average Weekly Sales
-Max Sales
-Min Sales
+---
 
-📊 Visuals:
-📈 Sales  Trend
-🏪 Sales by Store
-🎯 Holiday Impact
-🌡 Temperature vs Sales
-⛽ Fuel Price vs Sales
+## 📈 Visualizations
+- Sales Trend  
+- Sales by Store  
+- Holiday Impact  
+- Temperature vs Sales  
+- Fuel Price vs Sales  
 
-💡 Insights 
-Sales increase during holidays
-Certain stores consistently outperform others
-Economic indicators influence sales patterns
-Sales show seasonal fluctuations
- README 
-🚀 Walmart Sales Analysis Project
-This project analyzes Walmart sales data to extract insights and support business decisions.
+---
 
-🛠 Tools:
-Power BI
-Excel
-📊 Key Findings:
-Holidays significantly boost sales
-Store performance varies widely
-External factors impact revenue
-EDA was performed to understand the relationships between
-machine operating conditions and failure events.
+## 💡 Key Insights
+- Sales increase during holidays  
+- Certain stores outperform others  
+- External factors affect revenue  
+- Sales show seasonal patterns  
 
-Key analyses included:
+---
 
-• Distribution of machine failures
-• Correlation between features
-• Temperature vs Failure
-• Torque vs Failure
-• Rotational speed analysis
-
+## 👥 Team Members
+1. Kerlous Marzouk  
+2. Zeinab Ayash  
+3. Neama Ali  
+4. Verina Alfred  
+5. Moamen Tarek
+6. 
